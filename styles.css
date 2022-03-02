@@ -26,3 +26,7 @@ body {
   outline: none;
   background-color: white;
 }
+
+.calculator-grid > button:hover {
+  background-color: beige;
+}
