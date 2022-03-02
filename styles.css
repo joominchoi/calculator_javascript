@@ -19,3 +19,10 @@ body {
   grid-template-rows: minmax(120px, auto) repeat(5, 100px );
 }
 
+.calculator-grid > button {
+  cursor: pointer;
+  font-size: 2rem;
+  border: 1px solid white;
+  outline: none;
+  background-color: white;
+}
